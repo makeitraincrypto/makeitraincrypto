@@ -3,9 +3,9 @@
 ### such code
 ###                     wow
 
-# doge blog
+# much doge blog
 
-[makeitraincrypto doge blog](https:\\www.makeitraincrypto.com)
+[makeitraincrypto](https://makeitraincrypto.com)
 
 ```markdown
 Syntax highlighted code block
