@@ -1,9 +1,9 @@
-# very updates
+# so updates
 
 ### such code
 ###                     wow
 
-# much doge blog
+# much doge very blog
 
 [makeitraincrypto](https://makeitraincrypto.com)
 
