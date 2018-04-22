@@ -1,4 +1,4 @@
-# gitdoge
+# git doge
 
 very code
 
@@ -8,7 +8,7 @@ so source
 
 wow
 
-# wow
+# web doge
 
 much memes
 
@@ -17,5 +17,3 @@ much memes
 very doge blog
 
 [www.makeitraincrypto.com](https://makeitraincrypto.com)
-
-wow
