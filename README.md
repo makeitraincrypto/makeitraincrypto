@@ -1,8 +1,6 @@
 # such readme
 
-very updates
-
-### much guide
+### very updates
 ### such code
 ### wow
 
