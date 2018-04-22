@@ -1,9 +1,9 @@
 # very updates
 
-such code
-                          wow
+### such code
+###                     wow
 
-# much crypto
+# doge blog
 
 [www.makeitraincrypto.com]
 
