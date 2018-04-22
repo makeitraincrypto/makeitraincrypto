@@ -12,6 +12,8 @@ very doge
 
 [www.makeitraincrypto.com](https://makeitraincrypto.com)
 
-so insta
+much memes
 
-[makeitraincrypto Instagram](https://instagram.com/makeitraincrypto)
+[makeitraincrypto-instagram](https://instagram.com/makeitraincrypto)
+
+wow
