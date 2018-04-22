@@ -1,8 +1,8 @@
 # much code
 
-very source
+so source
 
-so open
+very open
 
 wow
 
