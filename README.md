@@ -1,6 +1,4 @@
-# git doge
-
-very code
+# very code doge
 
 much open
 
@@ -8,12 +6,6 @@ so source
 
 wow
 
-# web doge
-
-much memes
-
 [instagram-makeitraincrypto](https://instagram.com/makeitraincrypto)
-
-very doge blog
 
 [www.makeitraincrypto.com](https://makeitraincrypto.com)
