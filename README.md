@@ -1,12 +1,10 @@
-# much code
+very code
 
 so source
 
-very open
+much open
 
-wow
-
-# such links
+# wow
 
 much memes
 
