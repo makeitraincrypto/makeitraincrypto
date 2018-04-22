@@ -8,12 +8,12 @@ wow
 
 # such links
 
-very doge
-
-[www.makeitraincrypto.com](https://makeitraincrypto.com)
-
 much memes
 
-[makeitraincrypto-instagram](https://instagram.com/makeitraincrypto)
+[instagram-makeitraincrypto](https://instagram.com/makeitraincrypto)
+
+very doge blog
+
+[www.makeitraincrypto.com](https://makeitraincrypto.com)
 
 wow
