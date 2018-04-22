@@ -10,4 +10,4 @@ wow
 
 very doge
 
-[makeitraincrypto](https://makeitraincrypto.com)
+[www.makeitraincrypto.com](https://makeitraincrypto.com)
