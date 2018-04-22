@@ -5,7 +5,7 @@
 
 # doge blog
 
-[Link](www.makeitraincrypto.com)
+[makeitraincrypto doge blog](https:\\www.makeitraincrypto.com)
 
 ```markdown
 Syntax highlighted code block
